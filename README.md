@@ -1,2 +1,2 @@
 # SimpleCalculator
-Simple Calculator
+Simple Calculator Apps
