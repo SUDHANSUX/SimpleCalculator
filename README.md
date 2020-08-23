@@ -1,5 +1,7 @@
 # Simple Calculator
 
+![alt text](SimpleCalculator_UI.png)
+
 Sample Applications to demonstrate Microsoft Technologies.
 
 1.	SimpleCalculator.Vb6 – VBW, Visual Studio 6.0
