@@ -1,2 +1,2 @@
-# SimpleCalculator
-Simple Calculator Apps
+# Simple Calculator
+Simple Applications to denonstrate Microsoft Technologies.
